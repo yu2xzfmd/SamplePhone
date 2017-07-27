@@ -1,0 +1,6 @@
+framework module Pods_SwiftTwilioClientQuickstart {
+  umbrella header "Pods-SwiftTwilioClientQuickstart-umbrella.h"
+
+  export *
+  module * { export * }
+}
